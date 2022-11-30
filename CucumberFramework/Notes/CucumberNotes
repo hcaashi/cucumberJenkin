@@ -1,0 +1,47 @@
+Cucumber - BDD 
+Behavioural Driven Development 
+
+Test cases - Gherkin Language - This is a plain english with keywords
+Feature
+Scenario
+Given
+When
+Then
+But And
+Scenario Outline
+Examples
+Background .
+
+Three components of Cucumber
+Feature File
+Step Definition
+Runner
+
+Framework
+Pages extends BasePage
+Tests/Steps extends BaseTest
+Runner
+CommonUtitlies to read the property file - Constants
+
+Page - We stored Elements and gave a Logical Name and By Object 
+BasePage - We created a HashMap and stored the elements of every Page.
+Step/BaseTest _ We launched the Brower and entered the URL.
+
+Textbox
+Button
+dropdown
+radio button
+checkbox
+images
+links
+frames
+windows
+Labels
+Text
+
+
+
+
+
+
+
